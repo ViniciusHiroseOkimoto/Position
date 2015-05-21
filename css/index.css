@@ -1,0 +1,134 @@
+header{
+	background: blue;
+	color: white;
+	text-align: center;
+	background-size: 50%;
+	font-size: 4em;
+	font-family: "Open Sans";
+	padding-left: 3%;
+	padding-right: 3%;
+}
+
+section p{
+	font-size: 2em;
+	margin-top: 2%;
+	font-family: "Open Sans";
+}
+
+span{
+	margin-left: 5%;
+}
+
+.coxa{
+	display: inline-block;
+	width: 33%;
+	height:30em;
+	margin-top: 5%;
+	position: relative;
+}
+
+.coxa img{
+	position: absolute;
+	width: 50%;
+	height: 50%;
+	left: 5%;
+} 
+
+.coxa p{
+	font-size: 1.5em;
+	font-family: "Open Sans";
+	position: absolute;
+	width: 40%;
+	left: 42%;
+	padding-left: 12%;
+	padding-top: 10%;
+}
+
+.coxa .SegundoParagrafo{
+	font-size: 1.5em;
+	font-family: "Open Sans";
+	position: absolute;
+	top: 40%;
+	width: 82%;
+	left: 1%;
+	}
+
+.atletico{
+	display: inline-block;
+	width: 33%;
+	height: 30em;
+	position: relative;
+}
+
+.atletico img{
+	position: absolute;
+	width: 42%;
+	height: 36%;
+	top: 11%;
+	left: 5%;
+}
+
+.atletico p{
+    font-size: 1.5em;
+	font-family: "Open Sans";
+	position: absolute;
+	width: 40%;
+	left: 42%;
+	padding-left: 10%;
+	padding-top: 10%;
+}
+
+.atletico .SegundoParagrafo{
+	font-size: 1.5em;
+	font-family: "Open Sans";
+	position: absolute;
+	top: 40%;
+	width: 82%;
+	left: 1%;
+}
+
+.parana{
+display: inline-block;
+width: 32%;
+height: 30em;
+position: relative;
+}
+
+.parana img{
+	position: absolute;
+	width: 61%;
+	height: 44%;
+	top: 5%;
+	right: 45%;
+}
+
+.parana p{
+	font-size: 1.5em;
+	font-family: "Open Sans";
+	position: absolute;
+	width: 40%;
+	left: 42%;
+	padding-left: 1%;
+	padding-top: 10%;
+}
+
+.parana .SegundoParagrafo{
+	font-size: 1.5em;
+	font-family: "Open Sans";
+	position: absolute;
+	top: 40%;
+	width: 82%;
+	left: 1%;
+
+}
+
+footer{
+	background-color: black;
+	color: white;
+	font-size: 1.5em;
+	font-family: "Open Sans";
+	padding-left: 5%; 
+	position: absolute;
+	top: 170%;
+	width: 100%;
+}
